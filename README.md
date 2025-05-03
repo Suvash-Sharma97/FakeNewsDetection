@@ -18,8 +18,9 @@ This project is a full-stack Fake News Detection web application that utilizes m
 - **Deployment**: GitHub, Git LFS
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/31b19a42-f0ed-4a85-b343-a09471775d5f)
 
 ![image](https://github.com/user-attachments/assets/782bb2b3-fb22-4bd3-9922-6ad861d15bdd)
+
+![image](https://github.com/user-attachments/assets/5abfda25-dd41-4d13-be71-94e3c2f6a2d5)
 
 
