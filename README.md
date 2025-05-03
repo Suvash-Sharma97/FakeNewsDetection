@@ -17,5 +17,9 @@ This project is a full-stack Fake News Detection web application that utilizes m
 - **Machine Learning**: TensorFlow, Keras
 - **Deployment**: GitHub, Git LFS
 
-## Project Structure
+## Screenshots
+![image](https://github.com/user-attachments/assets/31b19a42-f0ed-4a85-b343-a09471775d5f)
+
+![image](https://github.com/user-attachments/assets/782bb2b3-fb22-4bd3-9922-6ad861d15bdd)
+
 
